@@ -15,9 +15,9 @@ How to Use:
 
 Checking for Errors:
 
-If you notice any oddities a quick rule to confirm the accuracy results is as follows:
+	If you notice any oddities a quick rule to confirm the accuracy results is as follows:
 
-Accurate Records + Problem Installs = # of LANDesk records in landesk.csv
-Accurate Records + Unused Records   = # of Software Database records in sdextract.csv (that match your query of course)
+	Accurate Records + Problem Installs = # of LANDesk records in landesk.csv
+	Accurate Records + Unused Records   = # of Software Database records in sdextract.csv (that match your query of course)
 
 Makes use of this sorting framework: http://www.kryogenix.org/code/browser/sorttable/
