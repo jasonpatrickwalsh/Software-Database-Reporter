@@ -3,14 +3,14 @@ README:
 
 How to Use:
 
-1. Put sdextract.csv and landesk.csv in the directory (ensure that they are saved properly)
-2. launch GUI.EXE
-3. Enter parameters
-	Note: Using a comma like "Project,Standard" will find all software with the words Project and Standard
-	in their titles.
-4. Generate the Report
-5. Notice the progress on the console window
-6. Open testOutput.html
+	1. Put sdextract.csv and landesk.csv in the directory (ensure that they are saved properly)
+	2. launch GUI.EXE
+	3. Enter parameters
+		Note: Using a comma like "Project,Standard" will find all software with the words Project and Standard
+		in their titles.
+	4. Generate the Report
+	5. Notice the progress on the console window
+	6. Open testOutput.html
 
 
 Checking for Errors:
